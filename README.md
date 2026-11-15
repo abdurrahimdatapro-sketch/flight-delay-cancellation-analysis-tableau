@@ -6,6 +6,14 @@ This project analyzes flight delays and cancellations across US airlines and air
 
 Through interactive data visualizations, this project demonstrates how flight data can be transformed into meaningful insights to support data-driven decision-making.
 
+## Interactive Tableau Dashboard
+
+Explore the interactive Tableau visualization:
+
+[View Flight Delay & Cancellation Analysis on Tableau Public](https://public.tableau.com/app/profile/abdur.rahim5381/viz/FlightDataset_17947270159490/Sheet1_1)
+
+The workbook includes five visualizations covering airline delays, flight cancellations, monthly delay trends, and geographic arrival delay patterns.
+
 ## Business Objectives
 
 - Compare total flight delay minutes across airlines.
