@@ -63,18 +63,36 @@ A symbol map displaying airport locations, with circle sizes representing accumu
 
 ## Key Findings
 
-The visualizations allow us to investigate:
+Based on the Tableau visualizations, the analysis highlights five key observations:
 
-- Which airlines have the highest accumulated delay minutes.
-- Which airlines and weekdays experience more cancellations.
-- How different delay categories change throughout the year.
-- Which states and airport locations have higher accumulated arrival delays.
+### 1. Airline Delay Performance
 
-*Specific numerical findings will be added after reviewing the underlying data and chart results.*
+Southwest Airlines Co. recorded the highest accumulated airline delay minutes among the airlines shown in the comparison chart.
+
+### 2. Flight Cancellation Patterns
+
+Flight cancellations vary across airlines and days of the week. The cancellation heatmap highlights airlines and weekdays with relatively higher cancellation counts.
+
+### 3. Monthly Delay Trends
+
+Departure Delay represents the largest delay category in the monthly comparison, reaching its highest visible point in June.
+
+### 4. Geographic Distribution of Arrival Delays
+
+Arrival delay totals vary across US states, highlighting geographic differences in accumulated flight delays.
+
+### 5. Airport-Level Delay Distribution
+
+The airport-level map reveals variations in accumulated arrival delay minutes across airport locations, providing a geographic perspective on flight disruption.
+
+**Important Note:** These findings are based on accumulated delay minutes and cancellation counts. Higher totals do not necessarily indicate worse operational performance, as flight volumes may differ between airlines and airports.
 
 ## Business Recommendations
 
-- Monitor airlines with high accumulated delay minutes to identify operational improvement opportunities.
-- Investigate weekday cancellation patterns to support better scheduling and resource planning.
-- Examine monthly delay trends to anticipate periods of increased disruption.
-- Use state-level and airport-level analysis to identify locations that
+Based on the analysis, the following actions could help airline operators improve operational performance:
+
+1. **Monitor Airline Delays:** Investigate operational factors contributing to high accumulated delay minutes.
+2. **Improve Cancellation Management:** Review cancellation patterns by weekday to support better scheduling and resource allocation.
+3. **Prepare for Seasonal Disruptions:** Examine monthly delay trends to identify periods requiring additional operational planning.
+4. **Prioritize High-Delay Locations:** Investigate airports and states with high accumulated arrival delays to identify potential improvement opportunities.
+5. **Use Performance Metrics:** Compare average delay per flight and cancellation rates alongside total delay minutes for fairer airline and airport performance assessments.
