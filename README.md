@@ -8,11 +8,16 @@ Through interactive data visualizations, this project demonstrates how flight da
 
 ## Interactive Tableau Dashboard
 
-Explore the interactive Tableau visualization:
+Explore the complete interactive dashboard on Tableau Public:
 
-[View Flight Delay & Cancellation Analysis on Tableau Public](https://public.tableau.com/app/profile/abdur.rahim5381/viz/FlightDataset_17947270159490/Sheet1_1)
+**[View Flight Delay & Cancellation Analysis](https://public.tableau.com/app/profile/abdur.rahim5381/viz/FlightDataset_17947270159490/Sheet1_1)**
 
-The workbook includes five visualizations covering airline delays, flight cancellations, monthly delay trends, and geographic arrival delay patterns.
+The dashboard provides insights into:
+- Total airline delays by airline.
+- Flight cancellations by airline and day of the week.
+- Monthly trends across seven delay categories.
+- Arrival delay distribution across U.S. states.
+- Arrival delay patterns across individual airports.
 
 ## Business Objectives
 
