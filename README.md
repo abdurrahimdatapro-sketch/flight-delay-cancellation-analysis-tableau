@@ -21,17 +21,17 @@ The dashboard provides insights into:
 
 ## Business Objectives
 
-- Compare total flight delay minutes across airlines.
-- Identify flight cancellation patterns by airline and day of the week.
-- Analyze monthly trends across different types of flight delays.
-- Explore arrival delay distribution across US states.
-- Compare arrival delays across airport locations.
+- Evaluate airline performance by comparing total accumulated flight delay minutes.
+- Identify flight cancellation patterns across airlines and days of the week.
+- Examine monthly trends across seven different flight delay categories.
+- Analyze the geographic distribution of arrival delays across U.S. states.
+- Identify airports with the highest accumulated arrival delay minutes.
 
 ## Tools & Technologies
 
-- **Tableau Public:** Data visualization and analysis.
+- **Tableau Public:** Interactive data visualization and dashboard development.
 - **Microsoft Excel:** Data exploration and preparation.
-- **CSV:** Data storage and input files.
+- **CSV:** Dataset storage and data input format.
 - **GitHub:** Project documentation and version control.
 
 ## Data Visualizations
